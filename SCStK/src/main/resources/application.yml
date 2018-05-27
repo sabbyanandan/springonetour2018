@@ -1,0 +1,20 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: s1p.dest
+          group: s1p.stream
+          consumer:
+            concurrency: 2
+          content-type: text/plain
+        output:
+          destination: s1p.dest.out
+        foo:
+          destination: s1p.dest.out
+      kafka:
+        bindings:
+          input:
+            consumer:
+              enable-dlq: true
+
