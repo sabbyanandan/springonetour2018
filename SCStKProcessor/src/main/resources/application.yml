@@ -3,14 +3,12 @@ spring:
     stream:
       bindings:
         input:
-          destination: s1p.dest
+          destination: s1p.dest.in
           group: s1p.stream
           consumer:
             concurrency: 2
           content-type: text/plain
         output:
-          destination: s1p.dest.out
-        foo:
           destination: s1p.dest.out
       kafka:
         bindings:

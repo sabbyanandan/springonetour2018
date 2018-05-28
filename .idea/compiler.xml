@@ -22,13 +22,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="SCStK" />
+        <module name="SCStK-processor" />
+        <module name="SCStK-sink" />
         <module name="SIK" />
         <module name="SK" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SCStK" target="1.8" />
+      <module name="SCStK-processor" target="1.8" />
+      <module name="SCStK-sink" target="1.8" />
       <module name="SIK" target="1.8" />
       <module name="SK" target="1.8" />
     </bytecodeTargetLevel>

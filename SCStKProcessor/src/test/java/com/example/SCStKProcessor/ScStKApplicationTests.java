@@ -1,4 +1,4 @@
-package com.example.SCStK;
+package com.example.SCStKProcessor;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

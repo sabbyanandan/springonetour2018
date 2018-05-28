@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>SCStK</artifactId>
+	<artifactId>SCStK-processor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>SCStK</name>
+	<name>SCStK-processor</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

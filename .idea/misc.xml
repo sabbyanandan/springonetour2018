@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/SK/pom.xml" />
         <option value="$PROJECT_DIR$/SIK/pom.xml" />
         <option value="$PROJECT_DIR$/SCStK/pom.xml" />
+        <option value="$PROJECT_DIR$/SCStKSink/pom.xml" />
+        <option value="$PROJECT_DIR$/SCStKProcessor/pom.xml" />
       </list>
     </option>
   </component>

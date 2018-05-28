@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SCStK/SCStK.iml" filepath="$PROJECT_DIR$/SCStK/SCStK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCStKProcessor/SCStK-processor.iml" filepath="$PROJECT_DIR$/SCStKProcessor/SCStK-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCStKSink/SCStK-sink.iml" filepath="$PROJECT_DIR$/SCStKSink/SCStK-sink.iml" />
       <module fileurl="file://$PROJECT_DIR$/SIK/SIK.iml" filepath="$PROJECT_DIR$/SIK/SIK.iml" />
       <module fileurl="file://$PROJECT_DIR$/SK/SK.iml" filepath="$PROJECT_DIR$/SK/SK.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springonetour2018.iml" filepath="$PROJECT_DIR$/.idea/springonetour2018.iml" />
